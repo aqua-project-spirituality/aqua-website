@@ -11,7 +11,11 @@
 
 <script>
 export default {
-  
+  head() {
+    return {
+      title: 'About - aqua Project'
+    }
+  }
 }
 </script>
 

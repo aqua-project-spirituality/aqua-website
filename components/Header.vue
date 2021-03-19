@@ -98,7 +98,7 @@ ul {
   position: relative;
 }
 .close {
-  color: deeppink;
+  color: black;
   cursor: pointer;
   padding: 10px 20px;
   font-size: 18px;

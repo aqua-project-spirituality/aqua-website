@@ -16,6 +16,8 @@ export default {
 
 <style scoped>
 .error-container {
+  height: 100vh;
+  color: deeppink;
   display: flex;
   justify-content: center;
   align-items: center;

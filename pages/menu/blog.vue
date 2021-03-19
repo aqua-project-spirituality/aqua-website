@@ -96,6 +96,11 @@
 
 <script>
 export default {
+  head() {
+    return {
+      title: 'Blog - aqua Project'
+    }
+  }
 }
 </script>
 

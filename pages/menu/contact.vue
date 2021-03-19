@@ -2,16 +2,20 @@
   <div class="container">
     <div class="wrapper">
       Feel free to contact us : 
-      <a href="mailto: aquaproject.newearth@gmail.com" style="color: deeppink;">
+      <!-- <a href="mailto: aquaproject.newearth@gmail.com" style="color: deeppink;">
         aquaproject.newearth@gmail.com
-      </a>
+      </a> -->
     </div>
   </div>
 </template>
 
 <script>
 export default {
-  
+  head() {
+    return {
+      title: 'Contact - aqua Project'
+    }
+  }
 }
 </script>
 

@@ -43,10 +43,10 @@
 <script>
 export default {
   methods: {
-    infinity() {
-      const url = 'https://www.shogoyamane.com'
-      window.open(url, '_blank')
-    }
+    // infinity() {
+    //   const url = ''
+    //   window.open(url, '_blank')
+    // }
   }
 }
 </script>

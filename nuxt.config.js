@@ -1,7 +1,8 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
+  target: 'static',
   head: {
-    title: 'aqua_project_01',
+    title: 'aqua Project',
     htmlAttrs: {
       lang: 'en'
     },
@@ -40,5 +41,6 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
-  }
+  },
+  generate: { fallback: true }
 }
