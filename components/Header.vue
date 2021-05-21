@@ -2,16 +2,21 @@
   <header class="header">
 
     <div class="header-container">
+
       <div class="logo">
-        <nuxt-link to="/">
-          <h2>
-            <span>&#8734;</span><span class="logo-a"> a</span>qua <span>&#8734;</span>
-          </h2>
-        </nuxt-link>
+        <h2>
+          <nuxt-link to="/" class="header-title">
+            <span>&#8734;</span>
+              <span class="logo-a"> a</span>qua 
+            <span>&#8734;</span>
+          </nuxt-link>
+        </h2>
       </div>
+
       <div class="moon" @click="showMenu = true">
         <span>&#9789;</span>
       </div>
+
     </div>
 
     <!-- menu modal -->
@@ -66,18 +71,26 @@ ul {
   width: 55%;
   margin: 0 auto;
 }
+
 .logo {
   margin-left: 4%;
 }
 .logo h2 {
   font-family: 'Times New Roman', Times, serif;
   font-weight: normal;
+}
+.logo a {
+  font-size: 34px;
+}
+.header-title {
+  font-family: fantasy;
   color: gold;
-  font-size: 32px;
+  outline: none;
 }
 .logo-a {
   color: deeppink;
 }
+
 .moon {
   cursor: pointer;
   padding: 5px;
@@ -141,7 +154,10 @@ ul {
     width: initial;
   }
   .logo h2 {
-    font-size: 28px;
+    font-size: 31px;
+  }
+  .logo a {
+  font-size: 28.5px;
   }
   .moon {
     font-size: 28px;

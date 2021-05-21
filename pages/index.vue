@@ -26,7 +26,7 @@
       </p>
       <p>
         my inner truth and love, <br>
-        <a href="https://www.shogoyamane.com" target="_blank" class="my-name">
+        <a href="https://shogoyamane.com" target="_blank" class="my-name">
           Shogo
         </a>
         <small>— Founder of aqua</small>
@@ -43,10 +43,10 @@
 <script>
 export default {
   methods: {
-    // infinity() {
-    //   const url = ''
-    //   window.open(url, '_blank')
-    // }
+    infinity() {
+      const url = ''
+      window.open(url, '_blank')
+    }
   }
 }
 </script>
