@@ -44,7 +44,7 @@
 export default {
   methods: {
     infinity() {
-      const url = ''
+      const url = 'https://aqua01-1ccd0.web.app'
       window.open(url, '_blank')
     }
   }

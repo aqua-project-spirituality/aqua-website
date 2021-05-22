@@ -27,8 +27,6 @@
         <span class="close" @click="close">x</span>
         <ul>
           <li @click="close"><nuxt-link to="/menu/about">About</nuxt-link></li>
-          <li @click="close"><nuxt-link to="/menu/blog">Blog</nuxt-link></li>
-          <li @click="close"><nuxt-link to="/menu/learning">Learning</nuxt-link></li>
           <li @click="close"><nuxt-link to="/menu/contact">Contact</nuxt-link></li>          
         </ul>
       </div>
