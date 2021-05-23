@@ -1,10 +1,12 @@
 <template>
-<div class="container">
+<div>
 
-  <h2 class="title">
-    <span>Let us create</span> the social platform for spiritual community in the Age of Aquarius <span>together</span>
-  </h2>
-  
+  <div class="title">
+    <div class="one">Social Media Platform</div>
+    <div class="two">for Spiritual Community</div>
+    <div class="three">in the Age of Aquarius</div>
+  </div>
+ 
   <img class="lp-image" src="https://images.unsplash.com/photo-1545431781-3e1b506e9a37?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80">
 
   <div class="content">
@@ -61,31 +63,37 @@ ul {
 }
 
 .title {
+  margin: 60px auto;
   animation: fadeIn 3s linear;
-  width: 40%;
-  font-family: "Crimson Text", serif;
-  font-weight: normal;
+  width: 35%;
   font-size: 25px;
   font-style: italic;
-  margin: 60px auto;
-  text-align: center;
-  color: aqua;
+  display: flex;
+  flex-direction: column;
+  font-family: 'Times New Roman', Times, serif;
 }
 @keyframes fadeIn {
   from { opacity: 0; }
   to { opacity: 1; }
 }
-.title span {
-  color: deeppink;
-  font-style: initial;
+.one {
+  color: mediumspringgreen;
 }
+.two {
+  color: magenta;
+  align-self: center;
+}
+.three {
+  color: aqua;
+  align-self: flex-end;
+}
+
 .lp-image {
   animation: fadeIn 3s linear;
   width: 90%;
   display: block;
   margin: 50px auto;
 }
-
 .content {
   margin: 0px auto;
 }
@@ -105,7 +113,6 @@ ul {
   color: #f2f2f2;
   text-decoration: underline;
 }
-
 .vision {
   margin: 50px auto;
   color: mediumspringgreen;
@@ -113,7 +120,6 @@ ul {
 .vision p {
   margin: 10px auto;
 }
-
 .infinity-btn {
   background-color: #fff;
   display: block;
@@ -128,15 +134,14 @@ ul {
   color: gold;
 }
 
-
 @media screen and (max-width: 550px) {
   .introduction {
     width: 80%;
   }
   .title {
+    margin: 40px auto;
     width: 95%;
     font-size: 20px;
-    margin: 40px auto;
   }
   .lp-image {
     width: 100%;
