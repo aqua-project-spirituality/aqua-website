@@ -4,13 +4,11 @@
     <div class="header-container">
 
       <div class="logo">
-        <h2>
-          <nuxt-link to="/" class="header-title">
-            <span>&#8734;</span>
-              <span class="logo-a"> a</span>qua 
-            <span>&#8734;</span>
-          </nuxt-link>
-        </h2>
+        <nuxt-link to="/" class="header-title">
+          <span>&#8734;</span>
+            <span class="logo-a"> a</span>qua 
+          <span>&#8734;</span>
+        </nuxt-link>
       </div>
 
       <div class="moon" @click="showMenu = true">
@@ -72,10 +70,6 @@ ul {
 
 .logo {
   margin-left: 4%;
-}
-.logo h2 {
-  font-family: 'Times New Roman', Times, serif;
-  font-weight: normal;
 }
 .logo a {
   font-size: 34px;
@@ -150,9 +144,6 @@ ul {
 @media screen and (max-width: 550px) {
   .header-container {
     width: initial;
-  }
-  .logo h2 {
-    font-size: 31px;
   }
   .logo a {
   font-size: 28.5px;

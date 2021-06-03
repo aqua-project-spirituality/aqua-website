@@ -24,7 +24,7 @@
         All works here in aqua are purely labor of my love and passion. I appreciate if you support me. I assume aqua will be an important platform for anyone who resonates with spirituality, because our world is heading towards Web3.0 – where a certain group has own unique currency in order to achieve collective social goal. aqua is the first Web3.0 platform specified for spiritual community.
       </p>
       <p>
-          My life path number is 1, so I'm supposed to create "Zero to One". But to create "One to Infinity", I need others' help, so please join me. Hope you join me to create an ideal world together.
+          My life path number is 1, so I'm supposed to create "Zero to One". But to create "One to Infinity", I need others' help, so please join me. Hope you join me to create an ideal world together!
       </p>
       <p>
         my inner truth and love, <br>
@@ -64,7 +64,7 @@ ul {
 
 .title {
   margin: 60px auto;
-  animation: fadeIn 3s linear;
+  animation: fadeIn 2s linear;
   width: 35%;
   font-size: 25px;
   font-style: italic;
@@ -89,7 +89,7 @@ ul {
 }
 
 .lp-image {
-  animation: fadeIn 3s linear;
+  animation: fadeIn 2s linear;
   width: 90%;
   display: block;
   margin: 50px auto;
