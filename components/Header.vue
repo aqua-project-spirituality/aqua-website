@@ -11,9 +11,9 @@
         </nuxt-link>
       </div>
 
-      <div class="moon" @click="showMenu = true">
+      <!-- <div class="moon" @click="showMenu = true">
         <span>&#9789;</span>
-      </div>
+      </div> -->
 
     </div>
 
