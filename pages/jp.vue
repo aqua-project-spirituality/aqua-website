@@ -4,7 +4,7 @@
   <div class="title">
     <div class="one">あなたは一人じゃないよ。</div>
     <div class="two">繋がり</div>
-    <div class="three">は大事です。</div>
+    <div class="three">は大事です,,,</div>
   </div>
  
   <img class="lp-image" src="https://images.unsplash.com/photo-1545431781-3e1b506e9a37?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80">
