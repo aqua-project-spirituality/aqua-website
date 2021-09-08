@@ -12,17 +12,29 @@
   <div class="content">
     <div class="introduction">
       <div class="vision">
-        <p style="color: mediumspringgreen;">
-          Hi, my name is Shogo. I was inspired by the message below by a spiritual teacher Teal Swan, and wanted to create a public space for those who are struggling with CONNECTION. You Are Not Alone. Let us make an amazing place to CONNECT. (I'm a programmer and on awakening journey like many of you. I've personally felt lonely for a long time and struggled with connection.)
-        <p style="color: magenta; font-style: italic;">
-          "Today, I have a message for you.  And that message is, you are not alone.  There has never been a second that you were alone.  There will never be a second that you are alone.  When you came down to this physical life, you came so that source (which is in fact the greater part of you) could come to know itself through your eyes.  You agreed to the perspective of separation so that source could come to know and understand the nature of it's own "oneness" through your eyes.  Perspective is only one angle of truth.  And the real truth is that truth is far more comprehensive than that one angle.  Just because you can't see it, doesn't mean it isn't there.  Remember this when you are observing the stark absence of friendship in your life.  Remember this when you are feeling lonely or misunderstood...  Behind the veil of your limited perspective, we are there.  Your isolation, is merely an illusion.  And by far the greater part of this universe and world not only understands you and not only loves you, but also, IS you."
+        <h1>Vision</h1>
+        <p>
+          For the coming the age of Aquarius, <span style="color: gold;">aqua</span> is aiming to be an online public space for anybody who is being on their spiritual journey and anybody who wants to express their authenticity, inner truth, and love.
         </p>
-        <p style="color: mediumspringgreen;">
-          I've created a social media website that you can enter through the infinity symbol below, so that we can CONNECT each other. I wish this place will be a "home" for those who have felt lonely and resonated with other awakening journeyers. I named this place "aqua" after the Age of "Aqua"rius. Thank you for reading :)
+        <p>
+          Unlike the existing social media, we are going to introduce our own unique currency —a cryptocurrency like Bitcoin— into our platform in the future, so as to build an alternative and independent society within spiritual community. It may sound crazy a bit at first to many people, but our technology has already reached the point where anybody, or any group can create their own currency.
         </p>
       </div>
-      <p style="color: mediumspringgreen;">
-        Much Love <span>&#128156;</span><span>&#128156;</span><span>&#128156;</span><span>&#129419;</span><span>&#129419;</span><span>&#129419;</span>,<br>Shogo
+      <p>
+        Hi, my name is Shogo. I'm a programmer and one of those on a spiritual journey like you. I've created the very starting point to manifest such place as described above, called <span style="color: gold;">aqua</span>, deriving from the Age of <span style="color: gold;">Aqua</span>rius —which is known as our new world. Our new world where we are all align with our own higher self.
+      </p>
+      <p>
+        All works here in <span style="color: gold;">aqua</span> are purely labor of my love and passion. I appreciate if you support me. I assume <span style="color: gold;">aqua</span> will be an important platform for anyone who resonates with spirituality, because our world is heading towards Web3.0 – where a certain group has own unique currency in order to achieve collective social goal. <span style="color: gold;">aqua</span> is the first Web3.0 platform specified for spiritual community.
+      </p>
+      <p>
+        My life path number is 1, so I'm supposed to create "Zero to One". But to create "One to Infinity", I need others' help, so please join me!
+      </p>
+      <p>
+        my inner truth and love, <br>
+        <a href="https://shogoyamane.com" target="_blank" class="my-name">
+          Shogo
+        </a>
+        <small>— Founder of aqua project</small>
       </p>
     </div>
     <button class="btn infinity-btn" @click="infinity">
@@ -94,9 +106,15 @@ ul {
 }
 .vision {
   margin: 50px auto;
+  color: mediumspringgreen;
 }
 .vision p {
   margin: 10px auto;
+  font-style: italic;
+}
+.my-name {
+  color: #f2f2f2;
+  text-decoration: underline;
 }
 .infinity-btn {
   background-color: #fff;

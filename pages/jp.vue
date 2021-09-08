@@ -24,7 +24,7 @@
         </p>
       </div>
       <p>
-        こんにちは、しょうごと申します。僕はプログラマーで、あなたと同じようにスピリチュアルな旅をしている一人です。僕は、上記のようなプラットフォームを実現するための出発点を創っています。<span style="color: gold;">aqua（アクア）</span>というのは、私達の新たな時代と言われている水瓶座の時代 the Age of <span style="color: gold;">Aqua</span>rius に由来します。ここでの自分の活動は、純粋に自分の愛と情熱によるものです。応援していただけると嬉しいです。僕の運命数は一なので、「ゼロからイチ」を創る人生になっています。しかし「イチから無限大」を創るためには、他の人の助けが必要です。皆さんのお力をお貸しください。
+        こんにちは、しょうごと申します。僕はプログラマーで、あなたと同じようにスピリチュアルな旅をしている一人です。僕は、上記のようなプラットフォームを実現するための出発点を創っています。<span style="color: gold;">aqua（アクア）</span>というのは、私達の新たな時代と言われている水瓶座の時代 the Age of <span style="color: gold;">Aqua</span>rius に由来します。ここでの自分の活動は、純粋に自分の愛と情熱によるものです。僕の運命数は一なので、「ゼロからイチ」を創る人生になっています。しかし「イチから無限大」を創るためには、他の人の助けが必要です。共に風の時代における未来を見ましょう。
       </p>
       <p>
         真実と愛を込めて, <br>
@@ -105,13 +105,6 @@ ul {
 .introduction p + p {
   margin: 25px auto;
 }
-.introduction .gold {
-  color: gold;
-}
-.my-name {
-  color: #f2f2f2;
-  text-decoration: underline;
-}
 .vision {
   margin: 50px auto;
   color: mediumspringgreen;
@@ -119,6 +112,10 @@ ul {
 .vision p {
   margin: 10px auto;
   font-style: italic;
+}
+.my-name {
+  color: #f2f2f2;
+  text-decoration: underline;
 }
 .infinity-btn {
   background-color: #fff;
