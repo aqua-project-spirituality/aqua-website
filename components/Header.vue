@@ -24,8 +24,12 @@
       <div class="menu">
         <span class="close" @click="close">x</span>
         <ul>
-          <li @click="close"><nuxt-link to="/menu/about">About</nuxt-link></li>
-          <li @click="close"><nuxt-link to="/menu/contact">Contact</nuxt-link></li>          
+          <li @click="close">
+            <nuxt-link to="/menu/about">About</nuxt-link>
+          </li>
+          <li @click="close">
+            <nuxt-link to="/menu/contact">Contact</nuxt-link>
+          </li>          
         </ul>
       </div>
     </div>
@@ -75,7 +79,7 @@ ul {
   font-size: 34px;
 }
 .header-title {
-  font-family: fantasy;
+  font-family: fantasy, cursive, Times, serif;
   color: gold;
   outline: none;
 }

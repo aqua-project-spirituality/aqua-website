@@ -2,12 +2,15 @@
 <div>
 
   <div class="title">
-    <div class="one">You Are Not Alone.</div>
-    <div class="two">CONNECTION</div>
-    <div class="three">is Important.</div>
+    <div class="one">Dear Spiritual Community...</div>
+    <div class="two">the Age of Aquarius</div>
+    <div class="three">is Here.</div>
   </div>
  
   <img class="lp-image" src="https://images.unsplash.com/photo-1545431781-3e1b506e9a37?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80">
+
+  <iframe class="lp-video" width="560" height="315" src="https://www.youtube-nocookie.com/embed/BHrGaKc9OD8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+  </iframe>
 
   <div class="content">
     <div class="introduction">
@@ -68,7 +71,6 @@ ul {
 .title {
   margin: 60px auto;
   animation: fadeIn 2s linear;
-  width: 35%;
   font-size: 25px;
   font-family: 'Times New Roman', Times, serif;
   text-align: center;
@@ -92,6 +94,10 @@ ul {
   width: 90%;
   display: block;
   margin: 50px auto;
+}
+.lp-video {
+  display: block;
+  margin: 0 auto;
 }
 .content {
   margin: 0px auto;
@@ -141,7 +147,9 @@ ul {
   }
   .lp-image {
     width: 100%;
-    display: block;
+  }
+  .lp-video {
+    width: 100%;
   }
   .infinity-btn {
     width: 96%;
