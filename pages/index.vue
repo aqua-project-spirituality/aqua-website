@@ -24,7 +24,7 @@
         </p>
       </div>
       <p>
-        Hi, my name is Shogo. I'm a programmer and one of those on a spiritual journey like you. I've created the very starting point to manifest such place as described above, called <span style="color: gold;">aqua</span>, deriving from the Age of <span style="color: gold;">Aqua</span>rius —which is known as our new world. Our new world where we are all align with our own higher self.
+        Hi, my name is Shogo. I'm a programmer and one of those on a spiritual journey like you. I've been creating the very starting point to manifest such place as described above, called <span style="color: gold;">aqua</span>, deriving from the Age of <span style="color: gold;">Aqua</span>rius —which is known as our new world. Our new world where we are all align with our own higher self.
       </p>
       <p>
         All works here in <span style="color: gold;">aqua</span> are purely labor of my love and passion. I appreciate if you support me. I assume <span style="color: gold;">aqua</span> will be an important platform for anyone who resonates with spirituality, because our world is heading towards Web3.0 – where a certain group has own unique currency in order to achieve collective social goal. <span style="color: gold;">aqua</span> is the first Web3.0 platform specified for spiritual community.

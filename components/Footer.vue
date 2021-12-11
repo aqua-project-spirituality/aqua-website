@@ -16,7 +16,6 @@ footer {
   display: flex;
   justify-content: center;
   align-items: center;
-  color: deeppink;
 }
 .copyright {
   margin-right: 7px; 
