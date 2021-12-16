@@ -14,6 +14,7 @@
 
   <div class="content">
     <div class="introduction">
+
       <div class="vision">
         <h1>Vision</h1>
         <p>
@@ -23,6 +24,7 @@
           Unlike the existing social media, we are going to introduce our own unique currency —a cryptocurrency like Bitcoin— into our platform in the future, so as to build an alternative and independent society within spiritual community. It may sound crazy a bit at first to many people, but our technology has already reached the point where anybody, or any group can create their own currency.
         </p>
       </div>
+
       <p>
         Hi, my name is Shogo. I'm a programmer and one of those on a spiritual journey like you. I've been creating the very starting point to manifest such place as described above, called <span style="color: gold;">aqua</span>, deriving from the Age of <span style="color: gold;">Aqua</span>rius —which is known as our new world. Our new world where we are all align with our own higher self.
       </p>
@@ -39,6 +41,10 @@
         </a>
         <small>— Founder of aqua project</small>
       </p>
+      <p style="color: deeppink;">
+        Join our community from the following. You just need install the app into your phone and create an account.
+      </p>
+
     </div>
     <button class="btn infinity-btn" @click="infinity">
       <span>&#8734;</span>
@@ -52,7 +58,7 @@
 export default {
   methods: {
     infinity() {
-      const url = 'https://aqua01-1ccd0.web.app'
+      const url = 'https://discord.gg/h4J7SwSgHt'
       window.open(url, '_blank')
     }
   }
@@ -111,8 +117,8 @@ ul {
   margin: 25px auto;
 }
 .vision {
-  margin: 50px auto;
   color: mediumspringgreen;
+  margin: 50px auto;
 }
 .vision p {
   margin: 10px auto;

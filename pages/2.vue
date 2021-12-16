@@ -16,7 +16,7 @@
       But it is not just a place like a Facebook group page. I'd like to create a small “society” within our place. How? Using Crypto. Have you heard about Cryptocurrency like Bitcoin? As I am a programmer, I'm convinced that Crypto is our humanity future, and every community will eventually use Crypto to create an alternative society. Yes, at this point, few people notice the potential but Crypto has been getting popular recently. 
     </p>
     <p>
-      If you are curious about my idea, please join our community below. You just need install the app into your phone. 
+      If you are curious about my idea, please join our community below. You just need install the app into your phone and create an account. 
     </p>
     <p>
       <a href="https://discord.gg/h4J7SwSgHt" target="_blank">
