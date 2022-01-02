@@ -38,9 +38,6 @@
         </a>
         <small>— aquaプロジェクト ファウンダー</small>
       </p>
-      <p style="color: deeppink;">
-        下記よりコミュニティにご参加下さい。アプリをインストールしてアカウントを作るだけで入れます。
-      </p>
       
     </div>
     <button class="btn infinity-btn" @click="infinity">
@@ -55,7 +52,7 @@
 export default {
   methods: {
     infinity() {
-      const url = 'https://discord.gg/h4J7SwSgHt'
+      const url = 'https://aqua01-1ccd0.web.app/'
       window.open(url, '_blank')
     }
   }

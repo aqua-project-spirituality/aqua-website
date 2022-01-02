@@ -3,8 +3,8 @@
 
   <div class="title">
     <div class="one">Dear Spiritual Community...</div>
-    <div class="two">the Age of Aquarius</div>
-    <div class="three">is Here.</div>
+    <div class="two">Let us build an alternative society</div>
+    <div class="three">in the Age of Aquarius.</div>
   </div>
  
   <img class="lp-image" src="https://images.unsplash.com/photo-1545431781-3e1b506e9a37?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80">
@@ -41,8 +41,8 @@
         </a>
         <small>— Founder of aqua project</small>
       </p>
-      <p style="color: deeppink;">
-        Join our community from the following. You just need install the app into your phone and create an account.
+      <p style="color: aqua;">
+        The following is a web app that I've been creating for a while. I plan to introduce our unique currency into this app in the future.
       </p>
 
     </div>
@@ -58,7 +58,7 @@
 export default {
   methods: {
     infinity() {
-      const url = 'https://discord.gg/h4J7SwSgHt'
+      const url = 'https://aqua01-1ccd0.web.app/'
       window.open(url, '_blank')
     }
   }
