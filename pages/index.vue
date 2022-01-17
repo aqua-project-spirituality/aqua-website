@@ -21,7 +21,7 @@
           For the coming the age of Aquarius, <span style="color: gold;">aqua</span> is aiming to be an online public space for anybody who is being on their spiritual journey and anybody who wants to express their authenticity, inner truth, and love.
         </p>
         <p>
-          Unlike the existing social media, we are going to introduce our own unique currency —a cryptocurrency like Bitcoin— into our platform in the future, so as to build an alternative and independent society within spiritual community. It may sound crazy a bit at first to many people, but our technology has already reached the point where anybody, or any group can create their own currency.
+          Unlike the existing social media, we are going to introduce our own unique currency —a cryptocurrency like Bitcoin— into our platform in the future, so as to build an alternative and independent society within spiritual community. Our technology has already reached the point where anybody and any groups can create their own currency.
         </p>
       </div>
 
@@ -42,7 +42,7 @@
         <small>— Founder of aqua project</small>
       </p>
       <p style="color: aqua;">
-        The following is a web app that I've been creating for a while. I plan to introduce our unique currency into this app in the future.
+        The following is a web app that I've been creating for a while. I plan to introduce our unique currency into this app in the future as a reward mechanism. Users who create good contents for others are rewarded with the currency.
       </p>
 
     </div>
