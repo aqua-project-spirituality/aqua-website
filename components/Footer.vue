@@ -1,6 +1,6 @@
 <template>
   <footer>
-    <span class="copyright">&#169;</span>2021 aqua
+    <span class="copyright">&#169;</span> aqua
   </footer>
 </template>
 
