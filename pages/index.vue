@@ -26,23 +26,23 @@
       </div>
 
       <p>
-        Hi, my name is Shogo. I'm a programmer and one of those on a spiritual journey like you. I've been creating the very starting point to manifest such place as described above, called <span style="color: gold;">aqua</span>, deriving from the Age of <span style="color: gold;">Aqua</span>rius —which is known as our new world. Our new world where we are all align with our own higher self.
+        Hi, my name is Shogo. I'm a programmer and one of those on a spiritual journey like you. I've been creating the very starting point to manifest such place as described above, called <span style="color: gold;">aqua</span>, deriving from the Age of <span style="color: gold;">Aqua</span>rius —which is known as our new world. Our new world where we are all align with our own higher selves.
       </p>
       <p>
-        All works here in <span style="color: gold;">aqua</span> are purely labor of my love and passion. I appreciate if you support me. I assume <span style="color: gold;">aqua</span> will be an important platform for anyone who resonates with spirituality, because our world is heading towards Web3.0 – where a certain group has own unique currency in order to achieve collective social goal. <span style="color: gold;">aqua</span> is the first Web3.0 platform specified for spiritual community.
+        All works here in <span style="color: gold;">aqua</span> are purely labor of my love and passion. I appreciate if you support me. I assume <span style="color: gold;">aqua</span> will be an important platform for anyone who resonates with spirituality, because our whole world is heading towards Web3.0 – where a certain group has own unique currency in order to achieve collective social goal. <span style="color: gold;">aqua</span> is the first Web3.0 platform specified for spiritual community.
       </p>
       <p>
-        My life path number is 1, so I'm supposed to create "Zero to One". But to create "One to Infinity", I need others' help, so please join me!
+        My life path number is 1, so I'm supposed to create "Zero to One". But to create "One to Infinity", I need others' help, so please join me.
       </p>
       <p>
-        my inner truth and love, <br>
+        My inner truth and love, <br>
         <a href="https://shogoyamane.com" target="_blank" class="my-name">
           Shogo
         </a>
         <small>— Founder of aqua project</small>
       </p>
       <p style="color: aqua;">
-        The following is a web app that I've been creating for a while. I plan to introduce our unique currency into this app in the future as a reward mechanism. Users who create good contents for others are rewarded with the currency.
+        The following is a web app that I've been creating for a while. I plan to introduce our unique currency into this app in the future as a reward mechanism. Users who create good contents for others are supposed to get rewarded with the currency, for example.
       </p>
 
     </div>

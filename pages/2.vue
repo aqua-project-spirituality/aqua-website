@@ -7,16 +7,16 @@
 
   <div class="content">
     <p>
-      If so, this site is for you because I am a person who feels same. (English is not my native language so please bear with me if mistakes found. But I believe I have something valuable to say for those who are going through their own awakening journey.)
+      If so, this site is for you because I am such a person who feels the same. (English is not my native language so please bear with me if mistakes found. But I believe I have something valuable to say for those who are going through their own awakening journey.)
     </p>
     <p>
-      Simply put, I would like to create a place where people who are spiritually awakening but feel lonely can gather and connect each other. Because that is a kind of place I always want. 
+      Simply put, I would like to create a place where people who are spiritually awakening but feel lonely can gather and connect each other. Because that is a kind of place I've always wanted. 
     </p>
     <p>
-      But it is not just a place like a Facebook group page. I'd like to create a small “society” within our place. How? Using Crypto. Have you heard about Cryptocurrency like Bitcoin? As I am a programmer, I'm convinced that Crypto is our humanity future, and every community will eventually use Crypto to create an alternative society. Yes, at this point, few people notice the potential but Crypto has been getting popular recently. 
+      But it is not just a place like a Facebook group page. I'd like to create a small “society” within our like-minded people. How? Using Crypto. Have you heard about Cryptocurrency like Bitcoin? As I am a programmer, I'm very much convinced that Crypto is our humanity future, and every community will eventually use Crypto to create an alternative society within them. Yes, at this point, few people notice the potential but Crypto has been significantly getting popular lately as the internet was in the early 1990's.
     </p>
     <p>
-      If you are curious about my idea, please join our community below.
+      If you are curious about my idea, please join our community.
     </p>
     <p>
       Lastly, I leave a quote from my best spiritual teacher, Teal Swan. Thanks for your reading! Wish light comes into your life. 
