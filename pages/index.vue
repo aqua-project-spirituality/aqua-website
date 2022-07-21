@@ -2,7 +2,7 @@
 <div>
 
   <div class="title">
-    <div class="one">Dear Spiritual Community...</div>
+    <div class="one">Dear Spiritual Community...abcd</div>
     <div class="two">Let us build an alternative society</div>
     <div class="three">in the Age of Aquarius.</div>
   </div>
